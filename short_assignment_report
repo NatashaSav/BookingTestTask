@@ -1,0 +1,8 @@
+When performing the task, I tried to write tests using the page object pattern.
+
+I encountered the following problem while completing a task:
+Sometimes when performing tests, after entering a password, instead of logging in as a registered user, I end up with a captcha, which I did not have time to figure out in the limited time I spent completing the task.
+
+The tests all work, but due to the fact that the appearance of the captcha cannot be predicted, the tests may fail.
+Usually 2 out of 6 tests fail with this error.
+You can look at the error in the screenshots folder (after running the tests)

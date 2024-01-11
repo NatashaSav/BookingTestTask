@@ -2,6 +2,10 @@ Booking.com
 
 - Download the project from the repository
 
+- Run the following command in terminal:
+
+   npm install package.json
+
 - To run tests look at package.json -> scripts. 
   Enter the following command to terminal:
   
