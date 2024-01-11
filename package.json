@@ -12,11 +12,7 @@
   "author": "Natalia",
   "license": "ISC",
   "devDependencies": {
-    "@faker-js/faker": "^8.3.1",
     "@testing-library/cypress": "^10.0.1",
     "cypress": "^13.6.2"
-  },
-  "dependencies": {
-    "cypress-wait-until": "^3.0.1"
   }
 }
