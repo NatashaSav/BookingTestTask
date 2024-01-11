@@ -1,0 +1,22 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open": "cypress open",
+    "login": " node_modules/.bin/cypress run --spec cypress/e2e/login.cy.js --browser chrome --headed",
+    "search_filter": " node_modules/.bin/cypress run --spec cypress/e2e/search_filter.cy.js --browser chrome --headed"
+  },
+  "author": "Natalia",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "@testing-library/cypress": "^10.0.1",
+    "cypress": "^13.6.2"
+  },
+  "dependencies": {
+    "cypress-wait-until": "^3.0.1"
+  }
+}

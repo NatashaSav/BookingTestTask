@@ -1,0 +1,27 @@
+{
+    "valid_data": {
+        "email": "kristina_reshko67@gmail.com",
+        "password": "Qsldjfgj402g"
+  },
+
+
+    "invalid_pswd": {
+        "email": "kristina_reshko67@gmail.com",
+        "password": "lskdcQ604"
+  },
+
+
+    "invalid_email": {
+      "email": "kristina_reshko67gmail.com",
+      "password": "Qsldjfgj402g"
+  },
+
+
+    "short_pswd": {
+      "email": "kristina_reshko67@gmail.com",
+      "password": "Qsl"
+  },
+
+  
+  "phone_number" : "+380639083491"
+}
